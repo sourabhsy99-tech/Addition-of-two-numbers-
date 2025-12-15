@@ -3,9 +3,7 @@ using namespace std;
 
 int main() {
 
-cout<<"my name is Sourabh Yadav"
+cout<<"my name is Sourabh Yadav";
 
-
-
-
+return 0;
 }
